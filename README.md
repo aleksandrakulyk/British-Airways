@@ -1,11 +1,11 @@
 # British-Airways
 This repository presents a visualization of data in the Power Bi program regarding British Airways passengers. 
 
-# Dataset
+## Dataset
 Data Base link: https://www.kaggle.com/datasets/shilpapabbi/customer-booking
 The dataset provides information about customer bookings of British Airways. It contains data like number of passengers travelling, sales chanel, flight day, bookings completed etc. On the dataset are performed analysis like percenatage of completed bookings, selected preferences when making a reservation, the day with the highest number of flights and many other. The data source is Kaggle.
 
-#Analysis
+##Analysis
 Data was loaded and cleaned using SQL and Excel. Then visualization was performed using Power Bi Desktop
 
 #Questions
