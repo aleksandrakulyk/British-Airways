@@ -16,6 +16,11 @@ Data was loaded and cleaned using SQL and Excel. Then visualization was performe
 - What is the day with the highest number of flights?
 - What type of travel is the most common?
 
+## Screenshots
+
+![image](https://github.com/aleksandrakulyk/British-Airways/assets/143332018/c92214b2-7113-4331-82a1-d6102eabde79)
+
+
 ## Conclusion
 - Only ~15% of reservations is completed.
 - Preferred sales channel is Internet.
